@@ -20,6 +20,12 @@
   outline: none !important;
   -webkit-backface-visibility: hidden; }
 
+  .audioembed {
+    position:fixed;
+    bottom:-6px;
+    right:0;
+    z-index:9; }
+
 .mfp-container {
   text-align: center;
   position: absolute;
